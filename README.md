@@ -1,16 +1,14 @@
-## Hi there 👋
+```-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**w451/w451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEZrvJZBYJKwYBBAHaRw8BAQdA9phA8s/ZzDDAkW4IkAg9yBR4tTe99QQkpDQe
+qpmbcBq0EWh0dHBzOi8vdC5tZS93NDUxiJkEExYKAEEWIQRnzHUsb5VxOmcHJef8
+O22/dCud3gUCZrvJZAIbAwUJBaNUHAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIX
+gAAKCRD8O22/dCud3lYhAP42qz+9ZLTWs0xmVd3zBHRRsWclLtfoyILV/LP67Rl2
+dAD8DH7iDXRL64vKtmLpSlRq0Tk7TWLMdWzYwvwkUZW8owG4OARmu8lkEgorBgEE
+AZdVAQUBAQdAdxWScBGPR3TW1FwWrml3rN7QuUBikwkPtUmKgWNrXAwDAQgHiH4E
+GBYKACYWIQRnzHUsb5VxOmcHJef8O22/dCud3gUCZrvJZAIbDAUJBaNUHAAKCRD8
+O22/dCud3sIHAP9JOlzV1oRL2ea5CcJB5nDGOs/RCTshSdT9S37CrBOlwQEAniZU
+NDKf64bkpjzzw4GrFFyADtCcxV5WUBmpvW2gvAE=
+=xyhF
+-----END PGP PUBLIC KEY BLOCK-----
+```
